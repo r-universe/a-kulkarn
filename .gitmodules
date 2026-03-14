@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ThinkingGrid"]
+	path = ThinkingGrid
+	url = https://github.com/a-kulkarn/qualtrics-thinkgrid
+	subdir = ThinkingGrid
